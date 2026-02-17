@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-02-17 15:09:24,http://139.196.151.191:2051/rtp/239.45.3.145:5140
+2026-02-18 03:07:00,http://139.196.151.191:2051/rtp/239.45.3.145:5140
 
 ,#genre#
 
@@ -100,20 +100,6 @@ CCTV-15,http://61.136.172.236:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1
 深圳卫视,http://61.136.172.236:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
 
 ☘️浙江频道,#genre#
-浙江钱江,https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
-浙江钱江台,https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
-浙江民生,https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
-浙江新闻,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
-浙江教科,https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
-浙江经济,https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
-之江纪录,https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
-浙江国际,https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
-萧山生活,https://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8
-萧山新闻综合,https://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8
-新昌新闻综合,https://l.cztvcloud.com/channels/lantian/SXxinchang1/720p.m3u8
-余姚新闻综合,https://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8
-余姚姚江文化,https://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8
-余姚姚江文化,https://l.cztvcloud.com/channels/lantian/SXyuyao2/720p.m3u8
 
 ☘️北京频道,#genre#
 
@@ -137,14 +123,8 @@ CCTV-15,http://61.136.172.236:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1
 金色频道,http://139.196.151.191:2051/rtp/239.45.1.118:5140
 
 ☘️重庆频道,#genre#
-荣昌综合,http://183.64.181.25:40023/rongchang01.m3u8
-万州综合,http://123.146.162.24:8017/iTXwrGs/800/live.m3u8
-万州三峡移民,http://123.146.162.24:8017/c2F0hmi/1000/live.m3u8
 
 ☘️江苏频道,#genre#
-武进新闻,https://live.wjyanghu.com/live/CH1.m3u8
-武进生活,https://live.wjyanghu.com/live/CH2.m3u8
-靖江新闻综合,http://visit.jjbctv.com:1935/live/xwzhmb/playlist.m3u8
 
 ☘️辽宁频道,#genre#
 
@@ -165,19 +145,16 @@ CCTV-15,http://61.136.172.236:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1
 ☘️陕西频道,#genre#
 
 ☘️福建频道,#genre#
-福州少儿,http://live.zohi.tv/video/s10001-fztv-4/index.m3u8
 
 ☘️海南频道,#genre#
 
 ☘️河南频道,#genre#
 
 ☘️河北频道,#genre#
-兴隆综合,https://jwcdnqx.hebyun.com.cn/live/xlzh/1500k/tzwj_video.m3u8
 
 ☘️贵州频道,#genre#
 
 ☘️甘肃频道,#genre#
-金昌综合,http://stream4.liveyun.hoge.cn/ch02/sd/live.m3u8
 
 ☘️新疆频道,#genre#
 新疆卫视,http://139.196.151.191:2051/rtp/239.45.1.116:5140
@@ -187,8 +164,6 @@ CCTV-15,http://61.136.172.236:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1
 ☘️山西频道,#genre#
 
 ☘️安徽频道,#genre#
-宿州科教,http://live.ahsz.tv/video/s10001-kxjy/index.m3u8
-宿州公共,http://live.ahsz.tv/video/s10001-ggpd/index.m3u8
 
 ☘️宁夏频道,#genre#
 
